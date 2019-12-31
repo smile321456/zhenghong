@@ -3,8 +3,8 @@
     "updateUrl":"http://appdown.hezubar.com/zhenghong_download/",
     "branches":[
         {
-            "code":"1003",
-            "version":"1.0.3",
+            "code":"1005",
+            "version":"1.0.5",
             "status":"release"
         }
     ]
